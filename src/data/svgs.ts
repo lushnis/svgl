@@ -2568,5 +2568,11 @@ export const svgs: iSVG[] = [
     category: 'Software',
     route: '/library/raindrop.svg',
     url: 'https://raindrop.io/'
+  },
+  {
+    title: 'Avalanche',
+    category: 'Crypto',
+    route: '/library/avalanche_logo.svg',
+    url: 'https://www.avax.network/'
   }
 ];

@@ -1,8 +1,8 @@
 {
-  "name": "svgl",
+  "name": "logolist",
   "author": "@pheralb_",
   "version": "4.1.0",
-  "description": "A beautiful library with SVG logos.",
+  "description": "Hub for top-tier SVG logos.",
   "private": true,
   "license": "MIT",
   "type": "module",

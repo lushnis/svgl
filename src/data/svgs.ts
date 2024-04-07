@@ -2574,5 +2574,11 @@ export const svgs: iSVG[] = [
     category: 'Crypto',
     route: '/library/avalanche_logo.svg',
     url: 'https://www.avax.network/'
+  },
+  {
+    title: 'Yale University',
+    category: 'Education',
+    route: '/library/yale_university.svg',
+    url: 'https://www.yale.edu/'
   }
 ];

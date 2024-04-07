@@ -57,7 +57,7 @@
       <a href="/" aria-label="Go to the SVGL v4.1 home page">
         <div class="flex items-center space-x-2 opacity-80 hover:opacity-100 transition-opacity">
           <svelte:component this={Logo} />
-          <span class="text-[19px] font-medium tracking-wide hidden md:block">svgl</span>
+          <span class="text-[19px] font-medium tracking-wide hidden md:block">logolist</span>
           <p class="text-neutral-400 hidden md:block font-mono">v4.1</p>
         </div>
       </a>
@@ -66,7 +66,7 @@
       <div
         class="flex items-center md:space-x-4 divide-x divide-neutral-300 dark:divide-neutral-700"
       >
-        {#each externalLinks as link}
+        <!-- {#each externalLinks as link}
           <a
             href={link.url}
             target={link.external ? '_blank' : ''}
@@ -97,7 +97,7 @@
               />
             {/if}
           </a>
-        {/each}
+        {/each} -->
       </div>
       <div class="flex items-center space-x-4">
         <a
